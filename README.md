@@ -45,3 +45,11 @@ Download multiple songs from a youtube playlist as well as the playlist thumbnai
 
 # Planned Feature Additions 
 - Automatic MP3 Metadata
+
+- MP4 Download
+
+- GUI
+
+- Error handling in geturls.py
+
+- Path storage file 
