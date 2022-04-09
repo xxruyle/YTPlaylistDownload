@@ -42,3 +42,6 @@ Download multiple songs from a youtube playlist as well as the playlist thumbnai
 
 # Tips
 - Sort by date and ascending in the directory you install your music into to get the playlist in order
+
+# Planned Feature Additions 
+- Automatic MP3 Metadata
