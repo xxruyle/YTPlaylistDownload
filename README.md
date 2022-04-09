@@ -44,12 +44,14 @@ Download multiple songs from a youtube playlist as well as the playlist thumbnai
 - Sort by date and ascending in the directory you install your music into to get the playlist in order
 
 # Planned Features
-- Automatic MP3 Metadata
+[] Automatic/Custom MP3 Metadata
 
-- MP4 Download
+[] MP4 Downloads
 
-- GUI
+[] Check to see if song file already exists so you can download playlists which you have downloaded before but have added new songs/videos 
 
-- Error handling in geturls.py
+[] GUI
 
-- Path storage file 
+[] Error handling in geturls.py
+
+[] Path storage file 
