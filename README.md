@@ -31,7 +31,7 @@ Download multiple songs from a youtube playlist as well as the playlist thumbnai
 - Playlist must be public
 - Must be on the main playlist viewer page (EXAMPLE:)
 
-![alt text](images\playlist_page_example.png)
+<img src="images\playlist_page_example.png"></img>
 
 4) With the project directory open, in the command line run:  `python main.py`
 
