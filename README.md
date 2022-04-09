@@ -1,8 +1,6 @@
 # YTPlaylistDownload
 Download multiple songs from a youtube playlist as well as the playlist thumbnail image
 
-
-
 # Requirements 
 - Must have proper chrome version and <a href="https://chromedriver.chromium.org/downloads">chromedriver</a> installed 
 - Python 3.8.8  </br>
@@ -55,6 +53,7 @@ Download multiple songs from a youtube playlist as well as the playlist thumbnai
 ⬜️ Automatic/Custom MP3 Metadata
 
 ⬜️ GUI
+
 
 
 
