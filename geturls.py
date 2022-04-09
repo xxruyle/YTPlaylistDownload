@@ -11,10 +11,11 @@ options.add_argument("--headless")
 
 PATH = 'C:\Program Files (x86)\chromedriver.exe'  # Place a path to your chromedriver !!!! 
 driver = webdriver.Chrome(PATH, options=options)
+print("Getting urls...")
 driver.get(getlink())
 
 # Getting each url href from the playlist
-print("Getting urls...")
+
 content = driver.find_element_by_xpath('//div[@id="contents"]')
 container = content.find_element_by_id('contents')
 song_list = container.find_elements_by_xpath('//ytd-playlist-video-renderer[@class="style-scope ytd-playlist-video-list-renderer"]')
